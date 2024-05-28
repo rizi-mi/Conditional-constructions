@@ -1,0 +1,9 @@
+E:\lab3\lab3\bin\Release\lab3.exe.config
+E:\lab3\lab3\bin\Release\lab3.exe
+E:\lab3\lab3\bin\Release\lab3.pdb
+E:\lab3\lab3\obj\Release\lab3.lab3.resources
+E:\lab3\lab3\obj\Release\lab3.Properties.Resources.resources
+E:\lab3\lab3\obj\Release\lab3.csproj.GenerateResource.cache
+E:\lab3\lab3\obj\Release\lab3.csproj.CoreCompileInputs.cache
+E:\lab3\lab3\obj\Release\lab3.exe
+E:\lab3\lab3\obj\Release\lab3.pdb
